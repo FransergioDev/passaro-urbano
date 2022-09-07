@@ -1,0 +1,9 @@
+.box-termos{
+    position: fixed;
+    height: 80%;
+    overflow-y: auto;
+    padding-top: 2em;
+    padding-bottom: 20em;
+    padding-left: 1em;
+    padding-right: 1em;
+}

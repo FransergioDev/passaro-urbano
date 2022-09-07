@@ -1,0 +1,19 @@
+span a {
+    color: #fff;
+    text-decoration: none;
+}
+
+span a:hover {
+    color: #3474af;
+}
+
+p {
+    margin-bottom: 0rem;
+    color: rgb(212, 202, 202);
+}
+
+.row {
+    background: #e7630a;
+    padding: 10px;
+    font-size: 0.8em;
+}
